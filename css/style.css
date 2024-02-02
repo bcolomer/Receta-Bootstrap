@@ -14,9 +14,9 @@ body{
     background-color: rgb(245, 223, 171);}
 
 .text-dulceleche{ 
-    color:rgb(121, 55, 4);}
+    color:rgb(92, 41, 3);}
 .border-dulceleche{
-     border-color: rgb(121, 55, 4)!important;
+     border-color: rgb(92, 41, 3)!important;
     
     }
 
@@ -38,24 +38,5 @@ box-shadow:  18px 18px 33px #64311d,
 .p-6{padding: 6em;}
 .pt-6{padding-top: 6em;}
 
-/*adding color
-.bg-purple{     background-color: rgb(176, 115, 232);}
-.text-purple{ color:rgb(225, 161, 225);}
-.border-purple{border-color: rgb(129, 6, 244);}
-
-/*adding new padding bootstrap tiene hasta 5 por eso lo pongo en 6
-
-
-/**adding new height
-
-.h-85 {height: 85vh;}
-
-
-@font-face{
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    src:url();
-}
-body{background-image: url(../img/mantelo.png);
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-}
+/*
  */
