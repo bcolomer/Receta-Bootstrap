@@ -16,12 +16,11 @@ body{
 .text-dulceleche{ 
     color:rgb(121, 55, 4);}
 .border-dulceleche{
-       border-color: rgb(121, 55, 4);
+     border-color: rgb(121, 55, 4);
     
     }
 .rounded-30{
     border-radius: 30px;
-    border-color:solid 5px rgb(238, 15, 29);
    
 }
 
