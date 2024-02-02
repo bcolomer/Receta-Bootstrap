@@ -4,31 +4,27 @@
 /******** Barbara Colomer 2024**************/
 /*** 1ero DAW Alan Turing, Malaga **********/
 /*******************************************/
-@font-face {
-  src: url(../font/cloudy.ttf); 
-  font-family: cloudy;
-}
-@font-face {
-  src: url(../font/halloween.ttf);
-  font-family: halloween; 
-}
-@font-face {
-    src: url(../font/bakery.ttf);
-  font-family: bakery;
-}
-@font-face {
-    src: url(../font/mango.ttf);
-  font-family: mango;
-}
+
 
 body{
     background-image: url(../img/woodtable.jpg);
     
 }
-/*/****/
-/*my own style for my bootstrapweb*/
-/*etc*/
-/**********************************/
+.bg-pastel{ 
+    background-color: rgb(246, 231, 195);}
+
+.text-dulceleche{ 
+    color:rgb(121, 55, 4);}
+.border-dulceleche{
+       border-color: rgb(121, 55, 4);
+    
+    }
+.rounded-30{
+    border-radius: 30px;
+    border-color:solid 5px rgb(238, 15, 29);
+   
+}
+
 
 /*adding color
 .bg-purple{     background-color: rgb(176, 115, 232);}
