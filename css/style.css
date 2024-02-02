@@ -11,7 +11,7 @@ body{
     
 }
 .bg-pastel{ 
-    background-color: rgb(246, 231, 195);}
+    background-color: rgb(245, 223, 171);}
 
 .text-dulceleche{ 
     color:rgb(121, 55, 4);}
@@ -19,6 +19,13 @@ body{
      border-color: rgb(121, 55, 4)!important;
     
     }
+
+    .form-check-input:checked {
+    background-color: rgb(121, 55, 4); /* Cambia este color según tus preferencias */
+}
+.list-group-item-pastel{
+    background-color: #aa832e;
+}
 .border-neo{
     
 box-shadow:  18px 18px 33px #64311d,
