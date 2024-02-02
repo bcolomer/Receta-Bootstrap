@@ -9,41 +9,39 @@
 body{
     background-image: url(../img/woodtable.jpg);
 }
+
+/**********Colores Personalizados***********/
 .bg-pastel{ 
-    background-color: rgb(245, 223, 171);}
+    background-color: rgb(245, 223, 171);
+}
 
 .text-dulceleche{ 
-    color:rgb(92, 41, 3);}
+    color:rgb(92, 41, 3);
+}
 
 .border-dulceleche{
     border-color: rgb(92, 41, 3)!important;
-    }
+}
 
 .border-pastel{
     border-color: rgb(245, 223, 171)!important;
-    }
-.form-check-input:checked {
-    background-color: rgb(121, 55, 4); /* Cambia este color según tus preferencias */
-    
 }
+
+.form-check-input:checked {
+    background-color: rgb(121, 55, 4); 
+}
+
 .list-group-item-pastel{
     background-color: #aa832e;
-    
 }
-border-none {
-    border: none;
-}
+
 .border-neo{
-    
 box-shadow:   18px 18px 33px #64311d,
             -18px -18px 33px #96492b;
 }
+
+
+/**********Bordes personalizados ***********/
 .rounded-30{
     border-radius: 30px;
-   
 }
-.p-6{padding: 6em;}
-.pt-6{padding-top: 6em;}
-
-/*
- */
